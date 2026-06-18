@@ -39,7 +39,7 @@ print(f"Loaded model. Match threshold = {THRESHOLD:.4f}")
 # connection if you'd rather not use environment variables.
 DB_HOST = os.environ.get("DB_HOST", "localhost")
 DB_USER = os.environ.get("DB_USER", "root")
-DB_PASSWORD = os.environ.get("DB_PASSWORD", "Priya@123")
+DB_PASSWORD = os.environ.get("DB_PASSWORD", "Ritup@rn@1222")
 DB_NAME = os.environ.get("DB_NAME", "attendance_system")
 
 
